@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FranDev24/FranDev24/main/dark%20(4).svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FranDev24/FranDev24/main/light%20(4).svg">
-  <img alt="Franchesco Benavides" src="https://raw.githubusercontent.com/FranDev24/FranDev24/main/light%20(4).svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FranDev24/FranDev24/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FranDev24/FranDev24/main/light.svg">
+  <img alt="Franchesco Benavides" src="https://raw.githubusercontent.com/FranDev24/FranDev24/main/light.svg" width="100%">
 </picture>
 
 <div align="center">
@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/franchesco-benavides-mu%C3%B1oz-71990219b/">
+<a href="https://www.linkedin.1.com/in/franchesco-benavides-mu%C3%B1oz-71990219b/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
