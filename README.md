@@ -7,8 +7,8 @@
 <div align="center">
 <img width="100%" src="https://streak-stats.demolab.com/?user=FranDev24&hide_border=true&background=0B0B0D&stroke=2C2C2E&ring=F5F5F7&fire=F5F5F7&currStreakLabel=F5F5F7&sideLabels=9A9AA0&currStreakNum=F5F5F7&sideNums=F5F5F7&dates=6E6E73&titleColor=F5F5F7&card_width=1180" alt="streak" />
 <br/>
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=FranDev24&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=F5F5F7&icon_color=9A9AA0&text_color=9A9AA0&bg_color=0B0B0D&card_width=500" alt="stats" />
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=FranDev24&layout=compact&langs_count=8&hide_border=true&title_color=F5F5F7&text_color=9A9AA0&bg_color=0B0B0D&card_width=500" alt="top langs" />
+<img width="49%" src="https://github-readme-stats-hazel-chi.vercel.app/api?username=FranDev24&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=F5F5F7&icon_color=9A9AA0&text_color=9A9AA0&bg_color=0B0B0D&card_width=500" alt="stats" />
+<img width="49%" src="https://github-readme-stats-hazel-chi.vercel.app/api/top-langs/?username=FranDev24&layout=compact&langs_count=8&hide_border=true&title_color=F5F5F7&text_color=9A9AA0&bg_color=0B0B0D&card_width=500" alt="top langs" />
 </div>
 
 <div align="center">
