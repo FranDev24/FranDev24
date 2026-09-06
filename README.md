@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FranDev24/FranDev24/main/dark%20(3).svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FranDev24/FranDev24/main/light%20(3).svg">
-  <img alt="Franchesco Benavides" src="https://raw.githubusercontent.com/FranDev24/FranDev24/main/light%20(3).svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FranDev24/FranDev24/main/dark%20(4).svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FranDev24/FranDev24/main/light%20(4).svg">
+  <img alt="Franchesco Benavides" src="https://raw.githubusercontent.com/FranDev24/FranDev24/main/light%20(4).svg" width="100%">
 </picture>
 
 <div align="center">
