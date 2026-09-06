@@ -10,8 +10,8 @@
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats-hazel-chi.vercel.app/api?username=FranDev24&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=F5F5F7&icon_color=9A9AA0&text_color=9A9AA0&bg_color=0B0B0D&card_width=500" alt="stats" />
-<img width="49%" src="https://github-readme-stats-hazel-chi.vercel.app/api/top-langs/?username=FranDev24&layout=compact&langs_count=8&show_private=true&hide_border=true&title_color=F5F5F7&text_color=9A9AA0&bg_color=0B0B0D&card_width=500" alt="top langs" />
+<img width="49%" src="https://github-readme-stats-hazel-chi.vercel.app/api?username=FranDev24&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=F5F5F7&icon_color=9A9AA0&text_color=9A9AA0&bg_color=0B0B0D&card_width=500&invalidate=true" alt="stats" />
+<img width="49%" src="https://github-readme-stats-hazel-chi.vercel.app/api/top-langs/?username=FranDev24&layout=compact&langs_count=8&show_private=true&hide_border=true&title_color=F5F5F7&text_color=9A9AA0&bg_color=0B0B0D&card_width=500&invalidate=true" alt="top langs" />
 
 </div>
 
