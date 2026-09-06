@@ -11,7 +11,7 @@
 <br/>
 
 <img width="49%" src="https://github-readme-stats-hazel-chi.vercel.app/api?username=FranDev24&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=F5F5F7&icon_color=9A9AA0&text_color=9A9AA0&bg_color=0B0B0D&card_width=500" alt="stats" />
-<img width="49%" src="https://github-readme-stats-hazel-chi.vercel.app/api/top-langs/?username=FranDev24&layout=compact&langs_count=8&hide_border=true&title_color=F5F5F7&text_color=9A9AA0&bg_color=0B0B0D&card_width=500" alt="top langs" />
+<img width="49%" src="https://github-readme-stats-hazel-chi.vercel.app/api/top-langs/?username=FranDev24&layout=compact&langs_count=8&show_private=true&hide_border=true&title_color=F5F5F7&text_color=9A9AA0&bg_color=0B0B0D&card_width=500" alt="top langs" />
 
 </div>
 
@@ -36,7 +36,11 @@
 </a>
 &nbsp;&nbsp;
 <a href="mailto:dalug.1996@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0B0B0D?style=for-the-badge&logo=gmail&logoColor=F5F5F7&labelColor=0B0B0D" alt="Email" />
+  <img src="https://img.shields.io/badge/Gmail-0B0B0D?style=for-the-badge&logo=gmail&logoColor=F5F5F7&labelColor=0B0B0D" alt="Gmail" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:dalug.1996@outlook.com">
+  <img src="https://img.shields.io/badge/Outlook-0B0B0D?style=for-the-badge&logo=microsoft-outlook&logoColor=F5F5F7&labelColor=0B0B0D" alt="Outlook" />
 </a>
 
 </div>
