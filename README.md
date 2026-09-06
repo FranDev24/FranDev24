@@ -1,18 +1,18 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FranDev24/FranDev24/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FranDev24/FranDev24/main/light.svg">
-  <img alt="Franchesco Benavides" src="https://raw.githubusercontent.com/FranDev24/FranDev24/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FranDev24/FranDev24/main/dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FranDev24/FranDev24/main/light.svg?v=3">
+  <img alt="Franchesco Benavides" src="https://raw.githubusercontent.com/FranDev24/FranDev24/main/light.svg?v=3">
 </picture>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/FranDev24/FranDev24/main/logo1.webp" width="75" alt="Logo 1" />
+<img src="https://raw.githubusercontent.com/FranDev24/FranDev24/main/logo1.webp?v=3" width="75" alt="Logo 1" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/FranDev24/FranDev24/main/logo2.png" width="75" alt="Logo 2" />
+<img src="https://raw.githubusercontent.com/FranDev24/FranDev24/main/logo2.png?v=3" width="75" alt="Logo 2" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/FranDev24/FranDev24/main/logo3.png" width="75" alt="Logo 3" />
+<img src="https://raw.githubusercontent.com/FranDev24/FranDev24/main/logo3.png?v=3" width="75" alt="Logo 3" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/FranDev24/FranDev24/main/logo4.png" width="75" alt="Logo 4" />
+<img src="https://raw.githubusercontent.com/FranDev24/FranDev24/main/logo4.png?v=3" width="75" alt="Logo 4" />
 
 </div>
 
