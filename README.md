@@ -1,8 +1,20 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FranDev24/FranDev24/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FranDev24/FranDev24/main/light.svg">
-  <img alt="Franchesco Benavides" src="https://raw.githubusercontent.com/FranDev24/FranDev24/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FranDev24/FranDev24/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FranDev24/FranDev24/main/light.svg">
+  <img alt="Franchesco Benavides" src="https://raw.githubusercontent.com/FranDev24/FranDev24/main/light.svg">
 </picture>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/FranDev24/FranDev24/main/logo1.webp" width="75" alt="Logo 1" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/FranDev24/FranDev24/main/logo2.png" width="75" alt="Logo 2" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/FranDev24/FranDev24/main/logo3.png" width="75" alt="Logo 3" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/FranDev24/FranDev24/main/logo4.png" width="75" alt="Logo 4" />
+
+</div>
 
 <div align="center">
 
@@ -18,9 +30,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FranDev24/FranDev24/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FranDev24/FranDev24/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/FranDev24/FranDev24/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FranDev24/FranDev24/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FranDev24/FranDev24/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/FranDev24/FranDev24/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -28,21 +40,19 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/franchesco-benavides-mu%C3%B1oz-71990219b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/frxnchxscx_x/">
-  <img src="https://img.shields.io/badge/Instagram-0B0B0D?style=for-the-badge&logo=instagram&logoColor=F5F5F7&labelColor=0B0B0D" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-0B0B0D?style=for-the-badge&logo=instagram&logoColor=F5F5F7&labelColor=0B0B0D" alt="Instagram" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:dalug.1996@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0B0B0D?style=for-the-badge&logo=gmail&logoColor=F5F5F7&labelColor=0B0B0D" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-0B0B0D?style=for-the-badge&logo=gmail&logoColor=F5F5F7&labelColor=0B0B0D" alt="Gmail" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:dalug.1996@outlook.com">
-  <img src="https://img.shields.io/badge/Outlook-0B0B0D?style=for-the-badge&logo=microsoft-outlook&logoColor=F5F5F7&labelColor=0B0B0D" alt="Outlook" />
+  <img src="https://img.shields.io/badge/Outlook-0B0B0D?style=for-the-badge&logo=microsoft-outlook&logoColor=F5F5F7&labelColor=0B0B0D" alt="Outlook" />
 </a>
 
 </div>
-
-listo y el readme es este arreglalo porfavor el orden va con u numero logo1, logo2...
