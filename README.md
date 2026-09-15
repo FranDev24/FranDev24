@@ -4,149 +4,56 @@
   <img alt="Franchesco Benavides" src="https://raw.githubusercontent.com/FranDev24/FranDev24/main/light.svg" width="100%">
 </picture>
 
-<!-- HELIO TECH STACK — engineered to match the banner's liquid helium aesthetic -->
+<!-- TECH STACK — skill-icons (renders as crisp SVGs, auto dark/light, zero CSS) -->
 <div align="center">
 
-<style>
-.helio-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; max-width: 1100px; margin: 0 auto 24px; }
-.helio-card { border-radius: 16px; padding: 20px; text-align: center; transition: transform 0.3s cubic-bezier(0.22, 0.9, 0.24, 1), box-shadow 0.3s; }
-.helio-card:hover { transform: translateY(-4px); }
-.helio-card.dark { background: linear-gradient(135deg, #0a0a0b 0%, #111113 100%); border: 1px solid #2a2a2e; box-shadow: 0 0 24px rgba(56, 228, 242, 0.08), inset 0 1px 0 rgba(255,255,255,0.04); }
-.helio-card.light { background: linear-gradient(135deg, #f5f5f7 0%, #e8e8ed 100%); border: 1px solid #d1d1d6; box-shadow: 0 0 24px rgba(31, 167, 201, 0.12), inset 0 1px 0 rgba(255,255,255,0.6); }
-.helio-title { font: 600 13px/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 16px; }
-.helio-title.dark { color: #38e4f2; text-shadow: 0 0 12px rgba(56, 228, 242, 0.4); }
-.helio-title.light { color: #1fa7c9; text-shadow: 0 0 12px rgba(31, 167, 201, 0.4); }
-.helio-icons { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; }
-.helio-icon-wrap { position: relative; width: 56px; height: 56px; border-radius: 14px; display: flex; align-items: center; justify-content: center; transition: transform 0.25s cubic-bezier(0.34, 1.4, 0.4, 1), box-shadow 0.25s; }
-.helio-icon-wrap:hover { transform: scale(1.12) rotate(-2deg); }
-.helio-icon-wrap.dark { background: radial-gradient(120% 120% at 50% 30%, rgba(56,228,242,0.18) 0%, transparent 60%), #0d0d0f; border: 1px solid #2a2a2e; box-shadow: 0 4px 16px rgba(0,0,0,0.4), inset 0 1px 0 rgba(255,255,255,0.03), 0 0 0 1px rgba(56,228,242,0.06); }
-.helio-icon-wrap.light { background: radial-gradient(120% 120% at 50% 30%, rgba(31,167,201,0.22) 0%, transparent 60%), #ffffff; border: 1px solid #d1d1d6; box-shadow: 0 4px 16px rgba(60,64,80,0.12), inset 0 1px 0 rgba(255,255,255,0.8), 0 0 0 1px rgba(31,167,201,0.1); }
-.helio-icon-wrap img { width: 32px; height: 32px; filter: drop-shadow(0 0 6px currentColor); }
-.helio-icon-wrap.dark img { color: #38e4f2; }
-.helio-icon-wrap.light img { color: #1fa7c9; }
-.helio-glow { position: absolute; inset: -8px; border-radius: 20px; opacity: 0; transition: opacity 0.3s; pointer-events: none; }
-.helio-glow.dark { background: radial-gradient(circle at center, rgba(56,228,242,0.35) 0%, transparent 70%); }
-.helio-glow.light { background: radial-gradient(circle at center, rgba(31,167,201,0.35) 0%, transparent 70%); }
-.helio-icon-wrap:hover .helio-glow { opacity: 1; }
-@media (prefers-color-scheme: dark) { .helio-card.light, .helio-icon-wrap.light, .helio-glow.light, .helio-title.light { display: none !important; } .helio-card.dark, .helio-icon-wrap.dark, .helio-glow.dark, .helio-title.dark { display: block !important; } }
-@media (prefers-color-scheme: light) { .helio-card.dark, .helio-icon-wrap.dark, .helio-glow.dark, .helio-title.dark { display: none !important; } .helio-card.light, .helio-icon-wrap.light, .helio-glow.light, .helio-title.light { display: block !important; } }
-</style>
+**ToolChain**  
+<a href="https://skillicons.dev" target="_blank" rel="noopener">
+  <img src="https://skillicons.dev/icons?i=vscode,git,nodejs,python,docker,vercel&theme=dark" alt="ToolChain" />
+</a>
+<a href="https://skillicons.dev" target="_blank" rel="noopener">
+  <img src="https://skillicons.dev/icons?i=vscode,git,nodejs,python,docker,vercel&theme=light" alt="ToolChain" style="display:none;" />
+</a>
 
-<div class="helio-grid">
-  <div class="helio-card dark">
-    <div class="helio-title dark">ToolChain</div>
-    <div class="helio-icons">
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code"></div></a>
-      <a href="https://git-scm.com/" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"></div></a>
-      <a href="https://nodejs.org/" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js"></div></a>
-      <a href="https://www.python.org/" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"></div></a>
-      <a href="https://www.docker.com/" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker"></div></a>
-      <a href="https://vercel.com/" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel"></div></a>
-    </div>
-    <div class="helio-card light" style="display:none;">
-    <div class="helio-title light">ToolChain</div>
-    <div class="helio-icons">
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code"></div></a>
-      <a href="https://git-scm.com/" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"></div></a>
-      <a href="https://nodejs.org/" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js"></div></a>
-      <a href="https://www.python.org/" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"></div></a>
-      <a href="https://www.docker.com/" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker"></div></a>
-      <a href="https://vercel.com/" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel"></div></a>
-    </div>
-  </div>
+**Core.Lang**  
+<a href="https://skillicons.dev" target="_blank" rel="noopener">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp&theme=dark" alt="Core.Lang" />
+</a>
+<a href="https://skillicons.dev" target="_blank" rel="noopener">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp&theme=light" alt="Core.Lang" style="display:none;" />
+</a>
 
-  <div class="helio-card dark">
-    <div class="helio-title dark">Core.Lang</div>
-    <div class="helio-icons">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"></div></a>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript"></div></a>
-      <a href="https://www.python.org/" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"></div></a>
-      <a href="https://isocpp.org/" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++"></div></a>
-    </div>
-    <div class="helio-card light" style="display:none;">
-    <div class="helio-title light">Core.Lang</div>
-    <div class="helio-icons">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"></div></a>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript"></div></a>
-      <a href="https://www.python.org/" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"></div></a>
-      <a href="https://isocpp.org/" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++"></div></a>
-    </div>
-  </div>
+**Core.Frontend**  
+<a href="https://skillicons.dev" target="_blank" rel="noopener">
+  <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind&theme=dark" alt="Core.Frontend" />
+</a>
+<a href="https://skillicons.dev" target="_blank" rel="noopener">
+  <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind&theme=light" alt="Core.Frontend" style="display:none;" />
+</a>
 
-  <div class="helio-card dark">
-    <div class="helio-title dark">Core.Frontend</div>
-    <div class="helio-icons">
-      <a href="https://react.dev/" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React"></div></a>
-      <a href="https://vuejs.org/" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js"></div></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5"></div></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3"></div></a>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind"></div></a>
-    </div>
-    <div class="helio-card light" style="display:none;">
-    <div class="helio-title light">Core.Frontend</div>
-    <div class="helio-icons">
-      <a href="https://react.dev/" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React"></div></a>
-      <a href="https://vuejs.org/" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js"></div></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5"></div></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3"></div></a>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind"></div></a>
-    </div>
-  </div>
+**Core.Backend**  
+<a href="https://skillicons.dev" target="_blank" rel="noopener">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql&theme=dark" alt="Core.Backend" />
+</a>
+<a href="https://skillicons.dev" target="_blank" rel="noopener">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql&theme=light" alt="Core.Backend" style="display:none;" />
+</a>
 
-  <div class="helio-card dark">
-    <div class="helio-title dark">Core.Backend</div>
-    <div class="helio-icons">
-      <a href="https://nodejs.org/" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js"></div></a>
-      <a href="https://expressjs.com/" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express"></div></a>
-      <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI"></div></a>
-      <a href="https://graphql.org/" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-original.svg" alt="GraphQL"></div></a>
-    </div>
-    <div class="helio-card light" style="display:none;">
-    <div class="helio-title light">Core.Backend</div>
-    <div class="helio-icons">
-      <a href="https://nodejs.org/" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js"></div></a>
-      <a href="https://expressjs.com/" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express"></div></a>
-      <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI"></div></a>
-      <a href="https://graphql.org/" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-original.svg" alt="GraphQL"></div></a>
-    </div>
-  </div>
+**Core.Database**  
+<a href="https://skillicons.dev" target="_blank" rel="noopener">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,sqlite&theme=dark" alt="Core.Database" />
+</a>
+<a href="https://skillicons.dev" target="_blank" rel="noopener">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,sqlite&theme=light" alt="Core.Database" style="display:none;" />
+</a>
 
-  <div class="helio-card dark">
-    <div class="helio-title dark">Core.Database</div>
-    <div class="helio-icons">
-      <a href="https://www.postgresql.org/" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"></div></a>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB"></div></a>
-      <a href="https://redis.io/" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis"></div></a>
-      <a href="https://www.sqlite.org/index.html" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite"></div></a>
-    </div>
-    <div class="helio-card light" style="display:none;">
-    <div class="helio-title light">Core.Database</div>
-    <div class="helio-icons">
-      <a href="https://www.postgresql.org/" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"></div></a>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB"></div></a>
-      <a href="https://redis.io/" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis"></div></a>
-      <a href="https://www.sqlite.org/index.html" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite"></div></a>
-    </div>
-  </div>
-
-  <div class="helio-card dark">
-    <div class="helio-title dark">Core.Infra</div>
-    <div class="helio-icons">
-      <a href="https://vercel.com/" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel"></div></a>
-      <a href="https://github.com/features/actions" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions"></div></a>
-      <a href="https://www.docker.com/" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker"></div></a>
-      <a href="https://www.linux.org/" target="_blank" rel="noopener"><div class="helio-icon-wrap dark"><div class="helio-glow dark"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux"></div></a>
-    </div>
-    <div class="helio-card light" style="display:none;">
-    <div class="helio-title light">Core.Infra</div>
-    <div class="helio-icons">
-      <a href="https://vercel.com/" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel"></div></a>
-      <a href="https://github.com/features/actions" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions"></div></a>
-      <a href="https://www.docker.com/" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker"></div></a>
-      <a href="https://www.linux.org/" target="_blank" rel="noopener"><div class="helio-icon-wrap light"><div class="helio-glow light"></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux"></div></a>
-    </div>
-  </div>
-</div>
+**Core.Infra**  
+<a href="https://skillicons.dev" target="_blank" rel="noopener">
+  <img src="https://skillicons.dev/icons?i=vercel,githubactions,docker,linux&theme=dark" alt="Core.Infra" />
+</a>
+<a href="https://skillicons.dev" target="_blank" rel="noopener">
+  <img src="https://skillicons.dev/icons?i=vercel,githubactions,docker,linux&theme=light" alt="Core.Infra" style="display:none;" />
+</a>
 
 </div>
 
